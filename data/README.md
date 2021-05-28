@@ -1,4 +1,4 @@
-![Dataset preview](dataset.png "a title")
+![Dataset preview](dataset.png "Dataset")
 
 # Image categories (source: CIFAR-100, CIFAR-10, ImageNet)
 

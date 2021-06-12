@@ -15,3 +15,12 @@ Read documentation [here](https://github.com/apple/turicreate)
 
 # Data
 This repo does not contain all the data. If you want to see the transforms and skeletons I used, please ask.
+
+# Using the code
+Refer to chapter 5 of the thesis for details.
+
+## Sec 5.2.1: Program IDs
+See [program-ID].
+
+## Sec 5.2.2 Grid Representations
+See [grid]

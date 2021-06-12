@@ -8,7 +8,7 @@ end
 
 function objectdata = objectdata(objectname)
     for index = 1:10
-        filename = strcat('C:\Users\aasth\Downloads\', objectname, num2str(index), 'skel.png');
+        filename = strcat('.\data\skeletons\', objectname, num2str(index), 'skel.png');
         im = imchange(filename);
         MP = fit_motorprograms(im, 1, true, false, true);
         MPname = strcat(objectname, num2str(index), 'MP.mat');

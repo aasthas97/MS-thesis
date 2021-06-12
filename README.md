@@ -14,7 +14,8 @@ Curve Fitting Toolbox
 Read documentation [here](https://github.com/apple/turicreate)
 
 # Data
-This repo does not contain all the data. If you want to see the transforms and skeletons I used, please ask.
+This repo does not contain all the data. If you want to see the transforms and skeletons I used, please ask.\
+Code for transformations and skeletonization is in [this directory](./image-preprocess/).
 
 # Using the code
 Refer to chapter 5 of the thesis for details.

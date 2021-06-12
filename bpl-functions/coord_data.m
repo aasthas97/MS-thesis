@@ -1,7 +1,7 @@
 function coord_data()
-% call coordinates() for all images, save MP files for future
+
 % use
-    for imnumber = 16 % skip 8, 17, 20, 26, 28, 29_3, 30, 31_7, 32, 34, 36, 45, 47, 48 (do 39 later)
+    for imnumber = 1:50
         for skelnumber = 1:5
             imfile = strcat('C:\Users\aasth\Documents\Thesis_new\Data\skeletons2\', num2str(imnumber), '_', num2str(skelnumber), 'skel.png');
             fprintf('%s', imfile);
